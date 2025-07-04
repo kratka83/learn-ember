@@ -4,7 +4,7 @@ It's a todo app created with ember.js, based on this [tutorial](http://thetechco
 
 ### demo
 
-https://mysterious-temple-6789.herokuapp.com/
+<del>https://mysterious-temple-6789.herokuapp.com/
 
 ### links
 
